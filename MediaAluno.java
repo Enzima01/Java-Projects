@@ -26,10 +26,10 @@ public class Main {
 			System.out.printf("Media de %s: %.2f\n",nome, media);
 			
 			if(media < 6) {
-				System.out.println("Aluno(a) Reprovado(a)!\n\n");
+				System.out.println("Aluno(a) Reprovado(a)!\n");
 			}
 			else {
-				System.out.println("Aluno(a) Aprovado(a)!\n\n");
+				System.out.println("Aluno(a) Aprovado(a)!\n");
 			}
 		
 		}
