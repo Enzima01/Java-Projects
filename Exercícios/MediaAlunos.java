@@ -1,3 +1,9 @@
+/* Sistema que solicita ao usuário a quantidade de alunos e, 
+ * para cada um, pede o nome e as notas de duas provas. 
+ * Em seguida, calcula a média das notas e 
+ * exibe se o aluno foi aprovado (média maior ou igual a 6) ou reprovado (média menor que 6).
+ * */
+
 import java.util.Scanner;
 
 public class Main {
