@@ -1,4 +1,4 @@
-🧪 Repositório de Exercícios em Java
+# 🧪 Repositório de Exercícios em Java
 
 Este repositório contém uma coleção de exercícios feitos durante meu processo de treino e aprendizado da linguagem **Java**.
 
