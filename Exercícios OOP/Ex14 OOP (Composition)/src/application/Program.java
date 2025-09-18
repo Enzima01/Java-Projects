@@ -1,10 +1,10 @@
 /* PT-BR|
  * Ler os dados de um pedido com N itens (N fornecido pelo usuario).
- * Depois, mostrar um sumario do pedido
+ * Depois, mostrar um sumario do pedido.
  * 
  * EN|
  * Read an order data with N items (N provided by the user).
- * Then, display a summary of the order
+ * Then, display a summary of the order.
  */
 
 package application;
@@ -79,3 +79,4 @@ public class Program {
 	}
 
 }
+
