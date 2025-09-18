@@ -3,7 +3,8 @@
  * Depois, solicitar do usuário um mês e mostrar qual foi o salário do funcionário nesse mês
  * 
  * EN|
- * 
+ * Read the data of an employee with N contracts (N provided by the user).
+ * Then, ask the user for a month and display the employee's salary for that month.
  */
 
 
@@ -70,3 +71,4 @@ public class Program {
 	}
 
 }
+
